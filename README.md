@@ -4,4 +4,4 @@ This is a painting of iron man from Iron Man 2 movie. I built this during my ear
 <br>The final result look like this. The face is incomplete.</p>
 <p><img width="890" alt="Screenshot 2025-05-31 at 10 01 11 PM" src="https://github.com/user-attachments/assets/7a3b373e-7d13-456f-ad2a-69b2717f4e72" /></p>
 <p>The original was supposed to look like this - </p>
-![b794b0b70ef7c6384305c5fc4e0adb89](https://github.com/user-attachments/assets/6122a1d6-1adf-4c80-a09f-e21a3138cd87)
+<p><img width="675" alt="Screenshot 2025-05-31 at 10 13 14 PM" src="https://github.com/user-attachments/assets/6c5cb9b0-4c0c-438c-95f6-e52b88e397d9" /></p>
